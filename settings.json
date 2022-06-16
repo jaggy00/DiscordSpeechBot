@@ -1,6 +1,6 @@
 {
-    "discord_token": "OTg2NzIyNTQwNjk5NDA2MzM2.GBRbUQ.MzjBWbB-HntWglQmZUpxWR-6y8-7mwTFGvAsVA",
-    "spotify_token_id": "8eeb93ad2bce4861a88ba92e3c1abdea",
-    "spotify_token_secret": "a41f1dc485514af38dfdb3cf719776fa",
-    "wit_ai_token": "WXQYROGB3CBS4OUQCK7BETZD5ZT7CKMV"
+    "discord_token": "",
+    "spotify_token_id": "",
+    "spotify_token_secret": "",
+    "wit_ai_token": ""
 }
